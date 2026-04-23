@@ -7,7 +7,8 @@ In addition to the dataset, we provide a public leaderboard reporting results fr
 ## Dataset
 
 ### Download
-comming soon
+
+The train, develop, and test sets can be downloaded from [HumDial-FDBench](https://huggingface.co/datasets/ASLP-lab/HumDial-FDBench)
 
 ### Scenarios
 
