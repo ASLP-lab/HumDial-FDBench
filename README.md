@@ -2,7 +2,7 @@
 
 This repository publicly releases the **HumDial-FDBench dataset** and the **HumDial-FDBench**. The dataset is built from dual-channel real human-recorded conversations and captures realistic conversational phenomena such as interruptions, overlapping speech, and dynamic turn negotiation. Based on this dataset, HumDial-FDBench is designed to evaluate a system’s ability to handle interruptions and maintain conversational continuity during concurrent listening and generation.
 
-In addition to the dataset, we provide a public leaderboard reporting results from challenge submissions, open-source models, and proprietary systems under a unified evaluation protocol. Together, these resources provide a shared benchmark for studying full-duplex spoken dialogue interaction and support future research toward more responsive and human-like conversational systems. For more details about the **ICASSP 2026 HumDial Challenge**, please visit the [HumDial Challenge repository](https://github.com/ASLP-lab/Hum-Dial).
+In addition to the dataset, we provide a public leaderboard reporting results from challenge submissions, open-source models, and proprietary systems under a unified evaluation protocol. Together, these resources provide a shared benchmark for studying full-duplex spoken dialogue interaction and support future research toward more responsive and human-like conversational systems. For more details about the **ICASSP 2026 HumDial Challenge**, please visit the [HumDial](https://github.com/ASLP-lab/Hum-Dial).
 ## Dataset
 
 ### Download
