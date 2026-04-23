@@ -1,5 +1,8 @@
 # Full-Duplex Interaction in Spoken Dialogue Systems: A Comprehensive Study from the ICASSP 2026 HumDial Challenge
 
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)]()  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/ASLP-lab/HumDial-FDBench)  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/ASLP-lab/HumDial-FDBench)
+
 This repository publicly releases the **HumDial-FDBench dataset** and the **HumDial-FDBench**. The dataset is built from dual-channel real human-recorded conversations and captures realistic conversational phenomena such as interruptions, overlapping speech, and dynamic turn negotiation. Based on this dataset, HumDial-FDBench is designed to evaluate a system’s ability to handle interruptions and maintain conversational continuity during concurrent listening and generation.
 
 In addition to the dataset, we provide a public leaderboard reporting results from challenge submissions, open-source models, and proprietary systems under a unified evaluation protocol. Together, these resources provide a shared benchmark for studying full-duplex spoken dialogue interaction and support future research toward more responsive and human-like conversational systems. For more details about the **ICASSP 2026 HumDial Challenge**, please visit the [HumDial](https://github.com/ASLP-lab/Hum-Dial).
