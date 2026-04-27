@@ -1,7 +1,7 @@
 # Full-Duplex Interaction in Spoken Dialogue Systems: A Comprehensive Study from the ICASSP 2026 HumDial Challenge
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)]()  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/ASLP-lab/HumDial-FDBench)  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/ASLP-lab/HumDial-FDBench)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/abs/2604.21406)  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/ASLP-lab/HumDial-FDBench)  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)](https://github.com/ASLP-lab/HumDial-FDBench)
 
 This repository publicly releases the **HumDial-FDBench dataset** and the **HumDial-FDBench**. The dataset is built from dual-channel real human-recorded conversations and captures realistic conversational phenomena such as interruptions, overlapping speech, and dynamic turn negotiation. Based on this dataset, HumDial-FDBench is designed to evaluate a system’s ability to handle interruptions and maintain conversational continuity during concurrent listening and generation.
 
@@ -79,3 +79,36 @@ To encourage transparent and reproducible evaluation, we provide a public leader
 | AISpeech | 47.7 | 33.9 | 3.391 | 51.6 | 43.0 | 8 |
 | Cascade | 28.1 | 30.9 | 1.739 | 70.7 | 37.7 | 9 |
 | Moshi | 35.4 | 22.8 | 2.876 | 56.3 | 34.5 | -- |
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{wang2026fullduplexinteractionspokendialogue,
+      title={Full-Duplex Interaction in Spoken Dialogue Systems: A Comprehensive Study from the ICASSP 2026 HumDial Challenge}, 
+      author={Chengyou Wang and Hongfei Xue and Guojian Li and Zhixian Zhao and Shuiyuan Wang and Shuai Wang and Xin Xu and Hui Bu and Lei Xie},
+      year={2026},
+      eprint={2604.21406},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2604.21406}, 
+}
+```
+
+## License
+
+The code in this repository is released under the **Apache 2.0 License**.
+
+## Contact
+
+- **Issues**: Please open a GitHub Issue for bug reports or suggestions.
+- **Email**: asd6404112a@mail.nwpu.edu.cn, lxie@nwpu.edu.cn
+
+<p align="center">
+    <a href="http://www.nwpu-aslp.org/">
+        <img src="figs/aslp.png" width="400"/>
+    </a>
+</p>
+
+
